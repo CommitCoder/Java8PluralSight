@@ -9,3 +9,4 @@
 java8.iml
 /.idea/*
 /out
+/src/stream/from/data/in/memory/MyPath.java
